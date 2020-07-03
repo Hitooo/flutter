@@ -1,0 +1,36 @@
+PODS:
+  - Flutter (1.0.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+    - fluttertoast
+    - permission_handler
+  - fluttertoast (0.0.2):
+    - Flutter
+  - permission_handler (3.3.0):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter/engine`)
+  - FlutterPluginRegistrant (from `Flutter/FlutterPluginRegistrant`)
+  - fluttertoast (from `Flutter/.symlinks/fluttertoast/ios`)
+  - permission_handler (from `Flutter/.symlinks/permission_handler/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter/engine
+  FlutterPluginRegistrant:
+    :path: Flutter/FlutterPluginRegistrant
+  fluttertoast:
+    :path: Flutter/.symlinks/fluttertoast/ios
+  permission_handler:
+    :path: Flutter/.symlinks/permission_handler/ios
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  FlutterPluginRegistrant: aa66f656e79a9bda33a4a83af2fb58408db76e3f
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  permission_handler: 67637977b227d62d46bfbf524f335f8568de5a73
+
+PODFILE CHECKSUM: c35abffafef884c891ee54e67cf59e69e248a63d
+
+COCOAPODS: 1.8.4
